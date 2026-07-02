@@ -20,19 +20,30 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,react,nodejs,express,mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,react,nodejs,mysql,mongodb,git,github,vscode" />
 </p>
+# 🎯 2026 Goals
+
+✅ Complete React.js
+
+✅ Learn Backend Development
+
+✅ Master Git & GitHub
+
+🟢 Build 10+ Real Projects
+
+🟢 Become a Full-Stack Developer
+
+🟢 Get a Web Developer Internship
 
 ---
 
-## 📊 GitHub Stats
+# 💬 Favorite Quote
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thannun-Pheun&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thannun-Pheun&layout=compact&theme=tokyonight" />
-</p>
+> **"Success doesn't come from what you know. It comes from what you build and never giving up."**
 
 ---
+
 
 ## 📫 Contact
 
