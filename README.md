@@ -1,63 +1,62 @@
-# Thannun_Pheun
-<h1 align="center">Hi 👋, I'm Pheun Thannun</h1>
+<h1 align="center">💻 Pheun Thannun</h1>
 
-<h3 align="center">
-Passionate Web Developer • Information Technology Student
-</h3>
+<h3 align="center">A Passionate Web Developer</h3>
+
+---
+
+<div align="center">
+
+🔭 Currently building responsive websites & web applications
+
+🌱 Learning **JavaScript, React.js, Node.js & Express.js**
+
+💡 Passionate about **Clean Code, UI Design & REST APIs**
+
+🎯 Goal: Become a Professional Full-Stack Web Developer
+
+📍 Battambang, Cambodia
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="mailto:thannunph@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 🛠 Languages • Frameworks • Tools
 
 <p align="center">
-I enjoy building responsive websites, solving programming problems, and continuously learning modern web technologies.
-I'm currently looking for opportunities to grow as a Web Developer Intern.
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Information Technology Student
-- 💻 Interested in Frontend & Full-Stack Development
-- 🌱 Currently learning **React.js, Node.js, Express.js**
-- 📚 Improving my JavaScript skills every day
-- 🎯 Goal: Become a Professional Full-Stack Developer
-- 📍 Battambang, Cambodia
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -67,77 +66,57 @@ I'm currently looking for opportunities to grow as a Web Developer Intern.
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 Portfolio Website
-A responsive personal portfolio built using HTML, CSS, and JavaScript.
+🌐 **Portfolio Website**
 
-### 📝 To-Do List App
-A task management application with CRUD functionality.
+Responsive personal portfolio built with HTML, CSS & JavaScript.
 
-### 🛒 E-Commerce Website
-Responsive shopping website with modern UI.
+🛒 **E-Commerce Website**
 
-### 🎬 Movie Search App
-Uses REST APIs to search movies dynamically.
+Modern shopping website with responsive UI.
+
+📝 **Task Manager**
+
+CRUD application for managing daily tasks.
+
+🎬 **Movie Search App**
+
+Movie search application using REST API.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - React.js
 - Node.js
 - Express.js
-- REST API
 - MongoDB
-- Git Workflow
+- REST API
+- Git & GitHub
 
 ---
 
-## 🎯 2026 Goals
+# 📫 Contact
 
-- ✅ Complete React
-- ✅ Build 10+ Projects
-- ✅ Learn Backend Development
-- ✅ Contribute to Open Source
-- ✅ Land a Web Developer Internship
+📧 **thannunph@gmail.com**
 
----
+📍 Battambang, Cambodia
 
-## 📫 Connect with Me
-
-<p>
-<a href="mailto:thannunph@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-</p>
+💼 Open to Web Developer Internship opportunities
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my GitHub Profile ⭐
 
-</p>
+</div>
