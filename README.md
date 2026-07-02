@@ -1,122 +1,106 @@
-<h1 align="center">💻 Pheun Thannun</h1>
+<h1 align="center">Hi 👋, I'm Pheun Thannun</h1>
 
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">💻 Information Technology Student | Aspiring Web Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer;Always+Learning+New+Things;Future+Full-Stack+Developer" />
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-🔭 Currently building responsive websites & web applications
+- 🎓 Information Technology Student
+- 💻 Passionate about Web Development
+- 🌱 Currently learning **JavaScript, React.js, Node.js**
+- 🚀 Building responsive websites and web applications
+- 🎯 Goal: Become a Professional Full-Stack Developer
+- 📍 Battambang, Cambodia
 
-🌱 Learning **JavaScript, React.js, Node.js & Express.js**
+---
 
-💡 Passionate about **Clean Code, UI Design & REST APIs**
+## 🌐 Connect with Me
 
-🎯 Goal: Become a Professional Full-Stack Web Developer
-
-📍 Battambang, Cambodia
-
-</div>
-
-<br>
-
-<div align="center">
-
+<p align="left">
 <a href="mailto:thannunph@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+</p>
 
 ---
 
-# 🛠 Languages • Frameworks • Tools
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,java" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thannun-Pheun&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thannun-Pheun&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Thannun-Pheun&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 GitHub Trophy
 
-🌐 **Portfolio Website**
+<p align="center">
 
-Responsive personal portfolio built with HTML, CSS & JavaScript.
+<img src="https://github-profile-trophy.vercel.app/?username=Thannun-Pheun&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-🛒 **E-Commerce Website**
-
-Modern shopping website with responsive UI.
-
-📝 **Task Manager**
-
-CRUD application for managing daily tasks.
-
-🎬 **Movie Search App**
-
-Movie search application using REST API.
+</p>
 
 ---
 
-# 📚 Currently Learning
+## 📌 Current Focus
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST API
-- Git & GitHub
-
----
-
-# 📫 Contact
-
-📧 **thannunph@gmail.com**
-
-📍 Battambang, Cambodia
-
-💼 Open to Web Developer Internship opportunities
+- 🌱 Learning React.js
+- ⚡ Building JavaScript Projects
+- 📱 Responsive Web Design
+- 🔗 REST APIs
+- 🗄️ MySQL & MongoDB
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### ⭐ Thanks for visiting my GitHub Profile ⭐
+⭐ Portfolio Website
 
-</div>
+⭐ Task Management App
+
+⭐ E-Commerce Website
+
+⭐ Weather App
+
+⭐ Movie Search App
+
+---
+
+## 💬 Quote
+
+> "Every expert was once a beginner. Keep building, keep learning."
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
