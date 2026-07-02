@@ -10,8 +10,8 @@
 
 - 🎓 Information Technology Student
 - 💻 Passionate about Web Development
-- 🌱 Currently learning **PHP, Laravel, React.js, Node.js, and Express.js**
-- 🚀 Building responsive and user-friendly web applications
+- 🌱 Currently learning **PHP, Laravel, React.js, Node.js
+- 🚀 Building responsive and user friendly web applications
 - 🎯 Looking for a Web Developer Internship
 - 📍 Battambang, Cambodia
 
